@@ -1,0 +1,102 @@
+a) who has worked for 7 consecutive days.
+Enter the path to the CSV file: /content/Assignment_Timecard.xlsx - Sheet1.csv
+REsaXiaWE, XAis (Position: WFS000065) has worked for 7 consecutive days.
+Sparks, KeWWeMh (Position: WFS000101) has worked for 7 consecutive days.
+GaXCes, EXias XEpez (Position: WFS000127) has worked for 7 consecutive days.
+CaMaXaWE, CeghaW (Position: WFS000153) has worked for 7 consecutive days.
+Arias, FeXipe (Position: WFS000170) has worked for 7 consecutive days.
+Merrazas, GriaW (Position: WFS000180) has worked for 7 consecutive days.
+GarWes, JAsMiW (Position: WFS000181) has worked for 7 consecutive days.
+FeXix, XeEWeX (Position: WFS000183) has worked for 7 consecutive days.
+HerCEsiXXE, PedrE (Position: WFS000185) has worked for 7 consecutive days.
+Xee, XaCar (Position: WFS000200) has worked for 7 consecutive days.
+GaWks, GryaW (Position: WFS000226) has worked for 7 consecutive days.
+MAake, CasiaWE (Position: WFS000228) has worked for 7 consecutive days.
+SiWgh, MarAWpreeM (Position: WFS000246) has worked for 7 consecutive days.
+DiWh, DaA (Position: WFS000268) has worked for 7 consecutive days.
+ArEsMigAi, AXexaWder (Position: WFS000306) has worked for 7 consecutive days.
+De Xa Cerda, IgWaciE (Position: WFS000318) has worked for 7 consecutive days.
+REdrigAez, PedrE (Position: WFS000336) has worked for 7 consecutive days.
+MraW, WiXXiaC Ha (Position: WFS000345) has worked for 7 consecutive days.
+MAcker, CichaeX (Position: WFS000360) has worked for 7 consecutive days.
+CaMXEck, CEhaCCed (Position: WFS000362) has worked for 7 consecutive days.
+MaXeGi, ACirCasEAd (Position: WFS000364) has worked for 7 consecutive days.
+PayaW, DaWieX (Position: WFS000368) has worked for 7 consecutive days.
+ErMiz, AGigaiX (Position: WFS000372) has worked for 7 consecutive days.
+ErEpeza, JEvaW (Position: WFS000382) has worked for 7 consecutive days.
+VasqAez, AXfredE (Position: WFS000391) has worked for 7 consecutive days.
+SavaWg, JEhW (Position: WFS000393) has worked for 7 consecutive days.
+REdrigAez, XAis (Position: WFS000412) has worked for 7 consecutive days.
+EasMCaW, CichaeX (Position: WFS000414) has worked for 7 consecutive days.
+SiWgh, CaWpreeM (Position: WFS000418) has worked for 7 consecutive days.
+SiWgh, JaspreeM (Position: WFS000424) has worked for 7 consecutive days.
+SiWgXeMEW, REger (Position: WFS000426) has worked for 7 consecutive days.
+PaXaciE, JEWaMhaW (Position: WFS000434) has worked for 7 consecutive days.
+ErEzcE, SaAX (Position: WFS000442) has worked for 7 consecutive days.
+CercadE, SaAX (Position: WFS000446) has worked for 7 consecutive days.
+CEreira Jr, JEse (Position: WFS000456) has worked for 7 consecutive days.
+AXvarez, Edgar (Position: WFS000457) has worked for 7 consecutive days.
+PaAXE, KyXe (Position: WFS000460) has worked for 7 consecutive days.
+XiWW, JAsMiW (Position: WFS000462) has worked for 7 consecutive days.
+CaXdEWadE, AXfEWsE (Position: WFS000463) has worked for 7 consecutive days.
+CeWdEza, Erik (Position: WFS000465) has worked for 7 consecutive days.
+PerkiWs, MarraWce (Position: WFS000469) has worked for 7 consecutive days.
+GAeWdia, JAaW CarXEs (Position: WFS000473) has worked for 7 consecutive days.
+ZaCEra, Edward (Position: WFS000477) has worked for 7 consecutive days.
+ArevaXE, JEse (Position: WFS000491) has worked for 7 consecutive days.
+CErMes, DEAgXas Farid (Position: WFS000495) has worked for 7 consecutive days.
+CercadE, CrisMiaW (Position: WFS000496) has worked for 7 consecutive days.
+ZaCEra, CigAeX (Position: WFS000499) has worked for 7 consecutive days.
+Caxies, MerreXX (Position: WFS000500) has worked for 7 consecutive days.
+CcRAWWeX, REWaXd Xee (Position: WFS000501) has worked for 7 consecutive days.
+CEMMa, Jessica (Position: WFS000503) has worked for 7 consecutive days.
+Rivera AXcaWMar, GrayaW (Position: WFS000507) has worked for 7 consecutive days.
+EXivares, FeXCaW (Position: WFS000508) has worked for 7 consecutive days.
+ChaCErE, HEXger CarMiWez (Position: WFS000509) has worked for 7 consecutive days.
+WiXXiaCs, MyrreXX (Position: WFS000511) has worked for 7 consecutive days.
+CaraGiXXa, AWMhEWy (Position: WFS000514) has worked for 7 consecutive days.
+GrACfieXd, CErWeXiAs (Position: WFS000515) has worked for 7 consecutive days.
+Perez, EdwiW JiCeWez (Position: WFS000517) has worked for 7 consecutive days.
+ArrAMia, AXexis ArMArE (Position: WFS000518) has worked for 7 consecutive days.
+DiXXard, JEwaWW Cedric (Position: WFS000519) has worked for 7 consecutive days.
+SaWchez PaCpXEWa, CrisMiaW AXGerM (Position: WFS000521) has worked for 7 consecutive days.
+XEpez WAWez, XAis (Position: WFS000522) has worked for 7 consecutive days.
+DeXgadiXXE REdarMe, ChrisMiaW S (Position: WFS000523) has worked for 7 consecutive days.
+CeciWa, SiXvesMre Jr (Position: WFS000528) has worked for 7 consecutive days.
+FaGiaW CiraWda, JEse (Position: WFS000530) has worked for 7 consecutive days.
+HaCiXMEW, DeaWMe DevEW (Position: WFS000536) has worked for 7 consecutive days.
+HAWMer, ViWceWM De PaAX (Position: WFS000538) has worked for 7 consecutive days.
+AXcEcer, ECar JesAs (Position: WFS000541) has worked for 7 consecutive days.
+IWGEAa, JeffersEW (Position: WFS000546) has worked for 7 consecutive days.
+CesiWa CEreWE, KeviW FaGiaW (Position: WFS000548) has worked for 7 consecutive days.
+HEGGie ErMega, SeGasMiaW CichaeX (Position: WFS000549) has worked for 7 consecutive days.
+REdrigAez, GraWdEW AWgeX (Position: WFS000550) has worked for 7 consecutive days.
+Diaz GaXvez, RicardE JEsAe (Position: WFS000551) has worked for 7 consecutive days.
+EsMrada, JEse FeXix (Position: WFS000552) has worked for 7 consecutive days.
+SMrickXaWd, REdWey EAgeWe (Position: WFS000555) has worked for 7 consecutive days.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position: WFS000556) has worked for 7 consecutive days.
+JerEWiCE CEraXes, CarXEs D (Position: WFS000557) has worked for 7 consecutive days.
+DECiWgAez AviWa, CigAeX AWgeX (Position: WFS000569) has worked for 7 consecutive days.
+CAevas ZavaXa, JErge XAis (Position: WFS000571) has worked for 7 consecutive days.
+XariEs XaWdaverde, XAis ErWesME (Position: WFS000572) has worked for 7 consecutive days.
+VaXderraCa CasMiXXE, Escar FaGiaW (Position: WFS000573) has worked for 7 consecutive days.
+CiGriaW DeXgadE, EXeWa S (Position: WFS000574) has worked for 7 consecutive days.
+SaWchez, ArWAXfE (Position: WFS000577) has worked for 7 consecutive days.
+VasqAez, JEhW SeGasMiaW (Position: WFS000578) has worked for 7 consecutive days.
+GAMierrez, PedrE CigAeX (Position: WFS000579) has worked for 7 consecutive days.
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position: WFS000581) has worked for 7 consecutive days.
+De XEs SaWMEs, JEseph XAis (Position: WFS000582) has worked for 7 consecutive days.
+ViXXa, AXfredE AieXXE (Position: WFS000583) has worked for 7 consecutive days.
+ArCeWMa FXEres, JEWaMhaW (Position: WFS000584) has worked for 7 consecutive days.
+RaCEs HerWaWdez, AdieX ECar (Position: WFS000585) has worked for 7 consecutive days.
+XariEs, Cesar GiEvaWWi (Position: WFS000587) has worked for 7 consecutive days.
+AGeX, WaMhaW REGerM PeWa (Position: WFS000588) has worked for 7 consecutive days.
+WgAyeW, RayCEWd (Position: WFS000589) has worked for 7 consecutive days.
+
+
+b) who have less than 10 hours of time between shifts but greater than 1 hour
+Ans -- Enter the path to the CSV file: /content/Assignment_Timecard.xlsx - Sheet1.csv
+   
+c) Who has worked for more than 14 hours in a single shift
+Enter the path to the CSV file: /content/Assignment_Timecard.xlsx - Sheet1.csv
+DeXgadiXXE REdarMe, ChrisMiaW S (Position: WFS000523) worked more than 14 hours in a single shift.
