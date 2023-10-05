@@ -95,7 +95,50 @@ WgAyeW, RayCEWd (Position: WFS000589) has worked for 7 consecutive days.
 
 
 b) who have less than 10 hours of time between shifts but greater than 1 hour
-Ans -- Enter the path to the CSV file: /content/Assignment_Timecard.xlsx - Sheet1.csv
+Ans -- Employee Name: CEreira Jr, JEse
+Position ID: WFS000456
+Time Between Shifts: 4.18 hours
+
+Employee Name: CaMaXaWE, CeghaW
+Position ID: WFS000153
+Time Between Shifts: 2.25 hours
+
+Employee Name: CaMaXaWE, CeghaW
+Position ID: WFS000153
+Time Between Shifts: 1.48 hours
+
+Employee Name: De Xa Cerda, IgWaciE
+Position ID: WFS000318
+Time Between Shifts: 3.00 hours
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+Position ID: WFS000523
+Time Between Shifts: 3.95 hours
+
+Employee Name: HaCiXMEW, DeaWMe DevEW
+Position ID: WFS000536
+Time Between Shifts: 2.67 hours
+
+Employee Name: MraW, WiXXiaC Ha
+Position ID: WFS000345
+Time Between Shifts: 9.75 hours
+
+Employee Name: REdrigAez, GraWdEW AWgeX
+Position ID: WFS000550
+Time Between Shifts: 1.15 hours
+
+Employee Name: Xee, XaCar
+Position ID: WFS000200
+Time Between Shifts: 9.68 hours
+
+Employee Name: Xee, XaCar
+Position ID: WFS000200
+Time Between Shifts: 8.50 hours
+
+Employee Name: Xee, XaCar
+Position ID: WFS000200
+Time Between Shifts: 9.20 hours
+
    
 c) Who has worked for more than 14 hours in a single shift
 Enter the path to the CSV file: /content/Assignment_Timecard.xlsx - Sheet1.csv
